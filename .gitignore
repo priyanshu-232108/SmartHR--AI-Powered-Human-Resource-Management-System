@@ -1,0 +1,17 @@
+**/.env
+**/.env.local
+**/.env.production
+**/.env.development
+
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/logs/
+**/uploads/
+**/temp/
+**/tmp/
+
+.DS_Store
+Thumbs.db
+*.log
